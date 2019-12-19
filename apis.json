@@ -1,0 +1,45 @@
+{
+    "name": "Department of State",
+    "description": "<p>The United States Department of State (DoS),[3] often referred to as the State Department, is the United States federal executive department responsible for international relations of the United States, equivalent to the foreign ministry of other countries. The Department was created in 1789 and was the first executive department established.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/440px-Department_of_state.svg.png",
+    "tags": [
+        "api provider",
+        "data json",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/department-of-state\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Department of State",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/440px-Department_of_state.svg.png",
+            "humanURL": "http:\/\/www.state.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/department-of-state-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.state.gov\/developer"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.state.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Department_of_State"
+        }
+    ]
+}
